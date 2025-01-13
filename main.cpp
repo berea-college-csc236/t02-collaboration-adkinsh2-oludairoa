@@ -6,7 +6,7 @@
 
     Edits made by:
     Ayomide Oludairo
-    TODO: Harry -- to be added by student 1
+    Harry -- to be added by student 1
  
  */
 #include <iostream>
@@ -23,12 +23,12 @@ int main() {
 
     for (int i = 0; i < ducknum; i++) { 
 
-        cout << "       (    | |    .__> /" << endl; // student 3(2) may change this line
-        cout << "        `-------------' " << endl; // TODO student 2 may change this line and may add lines below
-
         cout << "               ____" << endl;
-        cout << "              _;__;_     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
-        cout << "              <(o,)___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
+        cout << "              _;__;_     " << endl;
+        cout << "              <(o,)___-" << endl;
+        cout << "       (    | |    .__> /" << endl;
+        cout << "        `-------------' " << endl;
+
 
     }
 
